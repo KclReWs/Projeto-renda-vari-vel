@@ -1,0 +1,8 @@
+streamlit==1.24.0
+pandas==2.0.3
+plotly==5.15.0
+fpdf==1.7.2
+pdfplumber==0.9.0
+yfinance==0.2.22
+sqlite3
+python-dotenv==1.0.0
